@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Terlan\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Terlan\\.nuget\\packages"
+    ]
+  }
+}
